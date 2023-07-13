@@ -1,0 +1,26 @@
+.row {
+	margin-top: 10rem;
+}
+.text-area {
+	height: 7rem;
+}
+.form-control {
+	background-color: inherit;
+	border: 2px solid var(--bs-border-color);
+}
+.form-check-inline {
+	margin-right: 4rem !important;
+	margin-left: 4rem !important;
+	margin-bottom: 1rem !important;
+}
+.form-control:focus {
+	box-shadow: none;
+	border: 2px solid var(--bs-border-color);
+	background-color: inherit;
+}
+.form-check-input {
+	margin-top: 0.37rem;
+}
+.form-check-input:focus {
+	box-shadow: none;
+}
