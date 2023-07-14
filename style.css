@@ -24,3 +24,16 @@
 .form-check-input:focus {
 	box-shadow: none;
 }
+.cin {
+	position: fixed;
+	z-index: -1;
+	height: 30rem;
+}
+.cin-left {
+	left: 3rem;
+	bottom: 0rem;
+}
+.cin-right {
+	right: 3rem;
+	bottom: -1rem;
+}
