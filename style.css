@@ -27,13 +27,13 @@
 .cin {
 	position: fixed;
 	z-index: -1;
-	height: 30rem;
+	height: 35rem;
 }
 .cin-left {
-	left: 3rem;
+	left: 0rem;
 	bottom: 0rem;
 }
 .cin-right {
-	right: 3rem;
+	right: 0rem;
 	bottom: -1rem;
 }
