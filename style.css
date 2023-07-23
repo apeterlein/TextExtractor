@@ -1,6 +1,24 @@
 .row {
 	margin-top: 10rem;
 }
+.hwt-container {
+	width: 100%;
+	background: rgba(var(--bs-light-rgb),var(--bs-bg-opacity));
+	border-radius: .4em;
+}
+.hwt-content {
+	padding: .2em .5em .2em .5em;
+	border-radius: .4em;
+}
+.hwt-content mark {
+	border-radius: .2em;
+}
+.hl-G {
+	background-color: #D0BFFF;
+}
+.hl-Q {
+	background-color: #FFD0BF;
+}
 .text-area {
 	height: 7rem;
 }
